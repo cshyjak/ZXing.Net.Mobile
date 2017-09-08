@@ -37,16 +37,13 @@
         <file src="Build/Forms/Release/ios-unified/ZXing.Net.Mobile.Forms.iOS.dll" target="lib\Xamarin.iOS10\ZXing.Net.Mobile.Forms.iOS.dll" />
         
         <!-- Windows Phone  -->
-        <file src="Build/Forms/Release/wp8.0/ZXing.Net.Mobile.Forms.dll" target="lib\wp8\ZXing.Net.Mobile.Forms.dll" />
-        <file src="Build/Forms/Release/wp8.0/ZXing.Net.Mobile.Forms.WindowsPhone.dll" target="lib\wp8\ZXing.Net.Mobile.Forms.WindowsPhone.dll" />
+        <!-- Not supported -->        
 
         <!-- Windows RT / Store  -->
         <!-- Not supported -->        
 
 		<!-- Windows Universal  -->
-        <file src="Build/Forms/Release/uwp/ZXing.Net.Mobile.Forms.dll" target="lib\UAP10\ZXing.Net.Mobile.Forms.dll" />
-        <file src="Build/Forms/Release/uwp/ZXing.Net.Mobile.Forms.WindowsUniversal.dll" target="lib\UAP10\ZXing.Net.Mobile.Forms.WindowsUniversal.dll" />
-        <file src="Build/Forms/Release/uwp/ZXing.Net.Mobile.Forms.WindowsUniversal.pri" target="lib\UAP10\ZXing.Net.Mobile.Forms.WindowsUniversal.pri" />
+        <!-- Not supported -->        
 
         <!-- Portable PCL -->
         <file src="Build/Forms/Release/portable/ZXing.Net.Mobile.Forms.dll" target="lib\portable-net45+netcore45+wpa81+wp8\ZXing.Net.Mobile.Forms.dll" />        
